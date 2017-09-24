@@ -1,1 +1,38 @@
-html{font:sans-serif;}
+html{font:Comic;}
+
+li{
+    border:10px;
+    color: red;
+}
+
+ul{
+    padding:15px;
+    color:Orange;
+}
+
+li{
+    margin:5px;
+    color:Purple;
+}
+
+#maincontent{
+    width:50%;
+    margin:0 auto;
+}
+
+.mainlist li{
+    margin-bottom: 25px;
+
+}
+
+.mainlist p{
+    display:inline;
+}
+
+.delete{
+    background-color: gold;
+   color:#fff;
+   padding:5px;
+}
+
+background-image("https://i.pinimg.com/736x/b3/9a/9a/b39a9a3762fed847c4fdad334f48ae77--cute-tiger-cubs-baby-tiger-cubs.jpg")url
