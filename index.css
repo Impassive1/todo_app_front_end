@@ -35,4 +35,18 @@ li{
    padding:5px;
 }
 
-background-image("https://i.pinimg.com/736x/b3/9a/9a/b39a9a3762fed847c4fdad334f48ae77--cute-tiger-cubs-baby-tiger-cubs.jpg")url
+body{
+      background-image: url(https://i.pinimg.com/736x/b3/9a/9a/b39a9a3762fed847c4fdad334f48ae77--cute-tiger-cubs-baby-tiger-cubs.jpg)
+}
+
+.g {
+    background-color:lightblue;
+    width:50%;
+    margin:50px auto;
+    border:7px solid #a03030;
+}
+
+.title {
+    margin-left: 175px;
+    
+}
